@@ -8,3 +8,5 @@ chicken fry
 popcorn
 
 thank you :)
+
+Version v1.0 done
